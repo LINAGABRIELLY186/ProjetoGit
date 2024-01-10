@@ -1,0 +1,1 @@
+ola,esse prjeto ensina voce a usar o git
